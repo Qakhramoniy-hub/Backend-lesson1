@@ -129,7 +129,7 @@
 // alert(Number(false)); // 0
 
 // * Booleanda Istisnolar
-// har xil type dagi qiymatni booleanga aytlantirishdagi sitisnolar
+// har xil type dagi qiymatni booleanga aytlantirishdagi istisnolar
 
 // let value = "123";
 // alert(Boolean(1)); // true
